@@ -1,2 +1,2 @@
-# Hyperblog2
+# Hyperblog
 Aprendiendo Git y GitHub
